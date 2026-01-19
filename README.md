@@ -344,30 +344,9 @@ graph TD
     style A fill:#ff9900
 ```
 
-## 🔗 Conexões com a Formação
-
-- **Pré-requisitos**:
-
-  - Fundamentos (Git, Docker) em `02-fundamentos-dados/`
-  - Python avançado em `03-python-avancado-para-dados/`
-- **Aplicação Prática**:
-  - Deploy de projetos de `01-projetos/`
-  - Orquestração com Airflow
-- **Próximos passos**:
-  - DevOps e Kubernetes em `05-engenharia-de-dados-e-ia/12-devops-kubernetes/`
-  - Terraform avançado em `05-engenharia-de-dados-e-ia/11-infra-as-a-code-terraform/`
-
 ## 📖 Recursos Adicionais
 
 - [Documentação AWS](https://docs.aws.amazon.com/)
 - [AWS Free Tier](https://aws.amazon.com/free/)
 - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
 - [AWS Training and Certification](https://aws.amazon.com/training/)
-
-## 👤 Autor
-
-**Luciano Filho** - [lvgalvaofilho@gmail.com](mailto:lvgalvaofilho@gmail.com)
-
----
-
-**Parte da Formação Profissional em Engenharia de Dados e Inteligência Artificial - [Jornada de Dados](https://suajornadadedados.com.br/)**
