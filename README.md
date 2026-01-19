@@ -2,11 +2,11 @@
 
 ## 📋 Sobre
 
-Este bootcamp é um **programa completo de Cloud Computing** focado em engenharia de dados. Você aprenderá a implantar aplicações de dados na AWS, desde conceitos fundamentais até projetos práticos completos.
+Este bootcamp é um **programa completo de Cloud Computing** focado em engenharia de dados. Focado em implantar aplicações de dados na AWS, desde conceitos fundamentais até projetos práticos completos.
 
-**Objetivo Educacional**: Dominar serviços AWS para implantar e gerenciar aplicações de dados em produção de forma independente.
+**Objetivo**: Dominar serviços AWS para implantar e gerenciar aplicações de dados em produção de forma independente.
 
-## 🎯 Objetivos de Aprendizado
+## 🎯 Objetivos Foco
 
 - **Fundamentos de Cloud**: Entender computação em nuvem e criar conta AWS
 - **AWS Core Services**: Dominar S3, EC2, IAM, VPC, RDS, Lambda, SQS, SNS
@@ -15,7 +15,7 @@ Este bootcamp é um **programa completo de Cloud Computing** focado em engenhari
 - **Automação**: Gerenciar AWS via CLI e scripts
 - **Projetos Práticos**: Implementar aplicações completas na AWS
 
-## 📚 Conteúdo das Aulas
+## 📚 Conteúdo 
 
 ### Parte 1: AWS - Fundamentos (Aulas 01-08)
 
